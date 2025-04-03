@@ -37,8 +37,10 @@ THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #include <sstream>
 
 #ifdef _WIN32
+#ifndef WIN32
 #define WIN32
-#else //__linux__
+#endif
+#else  //__linux__
 #endif
 
 #include <pcap.h>

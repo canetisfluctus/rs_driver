@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\acikgoez\Documents\CDS\lidar\Forked\rs_driver\build\CMakeFiles\922824986d11ca6a820b51430f620c7b\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{31C936E4-CB02-3B56-A846-B33A276DB59A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
