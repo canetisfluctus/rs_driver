@@ -1,0 +1,10 @@
+^C:\USERS\ACIKGOEZ\DOCUMENTS\CDS\LIDAR\FORKED\RS_DRIVER\SRC\BUILD\CMAKEFILES\B7002B9E709CFCCCBE0C6BEB07733313\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/acikgoez/Documents/CDS/lidar/Forked/rs_driver/src -BC:/Users/acikgoez/Documents/CDS/lidar/Forked/rs_driver/src/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/acikgoez/Documents/CDS/lidar/Forked/rs_driver/src/build/pcap_capture.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
