@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\acikgoez\Documents\CDS\lidar\Forked\rs_driver\src\build\x64\Debug\ZERO_CHECK</FullPath>
+      <FullPath>C:\Users\acikgoez\Documents\CDS\lidar\Forked\rs_driver\build\Debug\ZERO_CHECK</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

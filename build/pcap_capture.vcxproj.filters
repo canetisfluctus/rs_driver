@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\acikgoez\Documents\CDS\lidar\Forked\rs_driver\src\airy_parser.cpp">
+    <ClCompile Include="C:\Users\acikgoez\Documents\CDS\lidar\Forked\rs_driver\airy_parser.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\acikgoez\Documents\CDS\lidar\Forked\rs_driver\src\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\acikgoez\Documents\CDS\lidar\Forked\rs_driver\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{D099D100-3B30-3ABC-A5CC-75F914367EF4}</UniqueIdentifier>
+      <UniqueIdentifier>{C6EF49F5-416C-3943-80AD-A4520A960071}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

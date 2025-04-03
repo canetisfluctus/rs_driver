@@ -7,7 +7,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 # Define the source files
 set(SOURCES
-    airy_parser.cpp
+    main.cpp
 )
 
 # Include directories
